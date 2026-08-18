@@ -1,4 +1,4 @@
-# KC Housing
+# King County Housing Price Modeling: Linear Regression and LASSO
 This project aims to analyze housing price data and develop predictive models using simple linear regression, multiple linear regression, and LASSO.
 
 ## Dataset
